@@ -58,8 +58,12 @@ a {
   transition: 0.3s;
 }
 .navbar__logo {
-  padding: 20px;
-  font-size: 20px;
+  margin-bottom: 20px;
+}
+.navbar__logo img {
+  height: 180px;
+  width: 180px;
+  border-radius: 10px;
 }
 .navbar__burger {
   display: inline-block;
@@ -180,6 +184,9 @@ a {
   display: flex;
   flex-direction: column;
   justify-content: center;
+}
+.header__left .header__content {
+  margin-bottom: 130px;
 }
 .header__right {
   width: 50%;

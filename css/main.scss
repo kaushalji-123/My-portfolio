@@ -60,10 +60,20 @@ a {
   align-items: center;
   width: 100%;
   transition: 0.3s;
+  // .navbar__logo{
+  //   height: 50px;
+  //   width: 50px;
+
+  // }
 
   &__logo {
-    padding: 20px;
-    font-size: 20px;
+    // margin-bottom: 100px;
+    margin-bottom: 20px;
+    img{
+    height: 180px;
+    width: 180px;
+    border-radius: 10px;
+    }
   }
 
   &__burger {
@@ -212,6 +222,9 @@ a {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    .header__content{
+      margin-bottom: 130px;
+    }
   }
   &__right {
     width: 50%;
