@@ -62,7 +62,7 @@ a {
 }
 .navbar__logo img {
   height: 180px;
-  width: 180px;
+  width: 200px;
   border-radius: 10px;
 }
 .navbar__burger {
@@ -162,7 +162,7 @@ a {
 .header__wrapper {
   width: 100%;
   height: calc(var(--vh, 1vh) * 100);
-  background: #282c34;
+  background: #000000;
 }
 
 .header {
@@ -224,7 +224,15 @@ a {
   color: #a8a8a8;
   font-weight: bold;
 }
-
+.header .header__third {
+  margin-top: 10px;
+  font-size: 20px;
+  color: rgb(214, 241, 78);
+  font-weight: lighter;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typings 5s steps(40) forwards; /* Adjust timing as needed */
+}
 #jsContainer {
   position: relative;
   display: flex;

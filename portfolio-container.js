@@ -18,7 +18,7 @@ const data = [
     liveDemo: "https://react-chit-chat-ojvkuflge-kaushalji-123s-projects.vercel.app/?vercelToolbarCode=EMRTwtPoML2BMvV",
     githubLink: "https://github.com/kaushalji-123/React-Chit-Chat",
     moreInfo: "hereis the chat by dk",
-    moreInfoPhoto: "/assets/Messenger.png",
+    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/Messenger.png",
     skills: ["javascript", "html", "css", "OOP"],
   },
   {
@@ -37,7 +37,7 @@ const data = [
     liveDemo: "https://police-and-thives.netlify.com/",
     githubLink: "https://github.com/MateuszRostkowski/PoliceAndThives",
     moreInfo: "Simple Game made in vanilla javascript.",
-    moreInfoPhoto: "/assets/PoliceAndThives.png",
+    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/RockPaper.png",
     skills: ["javascript", "html", "css", "OOP ,"],
   },
   {
@@ -47,7 +47,7 @@ const data = [
     githubLink: "https://github.com/infoshareacademy/jfdd13-frontczewscy",
     moreInfo:
       "Team Project that was made on a bootcamp. Made with HTML, CSS and Javascript.",
-    moreInfoPhoto: "/assets/Concerte.png",
+    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/TicTacToe.png",
     skills: ["javascript", "html", "css"],
   },
   {
@@ -57,7 +57,7 @@ const data = [
     githubLink: "https://github.com/infoshareacademy/jfdd13-frontczewscy-app",
     moreInfo:
       "Team Project that was made on a bootcamp. Made with ReactJS, firebase and more.",
-    moreInfoPhoto: "/assets/ConcerteApp.png",
+    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/RockPaper.png",
     skills: ["react", "javascript", "css", "firebase"],
   },
   {
@@ -66,7 +66,7 @@ const data = [
     liveDemo: "https://mateuszrostkowski.github.io/TicTacToe/",
     githubLink: "https://github.com/MateuszRostkowski/TicTacToe",
     moreInfo: "Simple TicTacToe game made in React",
-    moreInfoPhoto: "/assets/TicTacToe.png",
+    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/PoliceAndThives",
     skills: ["react", "javascript", "react"],
   },
   {

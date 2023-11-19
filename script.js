@@ -36,6 +36,40 @@ window.addEventListener(
   }
 );
 
+d// This code controls the animation of text parts
+document.addEventListener("DOMContentLoaded", function() {
+  const textParts = document.querySelectorAll('.text-part');
+  let delay = 0;
+
+  textParts.forEach(function(part) {
+    const text = part.textContent;
+    part.textContent = ''; // Clear the text to show the typing effect
+
+    setTimeout(function() {
+      typeText(part, text);
+    }, delay);
+
+    delay += text.length * 80; // Adjust the delay as needed
+  });
+});
+
+function typeText(element, text) {
+  let count = 0;
+  const typing = setInterval(() => {
+    element.textContent += text[count];
+    count++;
+    if (count === text.length) {
+      clearInterval(typing);
+    }
+  }, 80); // Adjust typing speed as needed
+}
+
+// var typed = new Typed(".auto-type",{
+//   strings:["Software Developer","Web developer","React Devloper"],
+//   typeSpeed: 150,
+//   backSpeed: 150,
+//   loop:true
+// })
 // const navbar = document.querySelector(".navbar");
 
 // window.addEventListener("scroll", (e) => {

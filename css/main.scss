@@ -71,7 +71,7 @@ a {
     margin-bottom: 20px;
     img{
     height: 180px;
-    width: 180px;
+    width: 200px;
     border-radius: 10px;
     }
   }
@@ -200,7 +200,7 @@ a {
 .header__wrapper {
   width: 100%;
   height: calc(var(--vh, 1vh) * 100);
-  background: #282c34;
+  background: #000000;
 }
 
 .header {
@@ -264,6 +264,26 @@ a {
     color: #a8a8a8;
     font-weight: bold;
   }
+  .header__third {
+    margin-top: 10px;
+    font-size: 20px;
+    color: rgb(214, 241, 78);
+    font-weight: lighter;
+    white-space: nowrap;
+    overflow: hidden;
+    // border-right: .15em solid orange; /* Adds a cursor effect */
+    animation: typings 5s steps(40) forwards; /* Adjust timing as needed */
+    .text-part{
+      
+    }
+  }
+  
+  // @keyframes typings {
+  //   from { width: 0; }
+  //   to { width: 100%; }
+  // }
+  
+  
 }
 
 #jsContainer {
