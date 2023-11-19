@@ -18,7 +18,7 @@ const data = [
     liveDemo: "https://react-chit-chat-ojvkuflge-kaushalji-123s-projects.vercel.app/?vercelToolbarCode=EMRTwtPoML2BMvV",
     githubLink: "https://github.com/kaushalji-123/React-Chit-Chat",
     moreInfo: "hereis the chat by dk",
-    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/Messenger.png",
+    moreInfoPhoto: "/My-portfolio/assets/Messenger.png",
     skills: ["javascript", "html", "css", "OOP"],
   },
   {
@@ -28,16 +28,16 @@ const data = [
     githubLink: "https://github.com/kaushalji-123/JewelleryShop",
     moreInfo:
       "This is an Beautifull online jewelry shop designed using Figma, HTML, SCSS, and JavaScript. Created a stunning Asthetic Looking website to display different jewelry collections. Make sure the site looks great and works well on phones, tablets, and computers.",
-    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/jwellery.png",
+    moreInfoPhoto: "/My-portfolio/assets/jwellery.png",
     skills: ["javascript", "html", "Scss" , "Figma" ],
   },
   {
     name: "Police and Thives",
     shortDesc: "Game in JS",
     liveDemo: "https://police-and-thives.netlify.com/",
-    githubLink: "https://github.com/MateuszRostkowski/PoliceAndThives",
+    githubLink: "/My-portfolio/assets/PoliceAndThives",
     moreInfo: "Simple Game made in vanilla javascript.",
-    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/RockPaper.png",
+    moreInfoPhoto: "/My-portfolio/assets/RockPaper.png",
     skills: ["javascript", "html", "css", "OOP ,"],
   },
   {
@@ -47,7 +47,7 @@ const data = [
     githubLink: "https://github.com/infoshareacademy/jfdd13-frontczewscy",
     moreInfo:
       "Team Project that was made on a bootcamp. Made with HTML, CSS and Javascript.",
-    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/TicTacToe.png",
+    moreInfoPhoto: "/My-portfolio/assets/TicTacToe.png",
     skills: ["javascript", "html", "css"],
   },
   {
@@ -57,7 +57,7 @@ const data = [
     githubLink: "https://github.com/infoshareacademy/jfdd13-frontczewscy-app",
     moreInfo:
       "Team Project that was made on a bootcamp. Made with ReactJS, firebase and more.",
-    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/RockPaper.png",
+    moreInfoPhoto: "/My-portfolio/assets/RockPaper.png",
     skills: ["react", "javascript", "css", "firebase"],
   },
   {
@@ -66,7 +66,7 @@ const data = [
     liveDemo: "https://mateuszrostkowski.github.io/TicTacToe/",
     githubLink: "https://github.com/MateuszRostkowski/TicTacToe",
     moreInfo: "Simple TicTacToe game made in React",
-    moreInfoPhoto: "/MateuszRostkowski.github.io/assets/PoliceAndThives",
+    moreInfoPhoto: "/My-portfolio/assets/TicTacToe.png",
     skills: ["react", "javascript", "react"],
   },
   {
@@ -75,7 +75,7 @@ const data = [
     liveDemo: "http://javascriptmasters.netlify.com/",
     githubLink: "https://github.com/MateuszRostkowski/Gatsby_blog",
     moreInfo: "This blog was made using Gatsby",
-    moreInfoPhoto: "/assets/JavascriptMaster.png",
+    moreInfoPhoto: "/My-portfolio/assets/JavascriptMaster.png",
     skills: ["gatsby", "react", "javascript", "scss", "css"],
   },
   {
@@ -85,7 +85,7 @@ const data = [
     githubLink: "",
     moreInfo:
       "Weather app made with vanilla javascript. You need to allow use your location to fully use this site.",
-    moreInfoPhoto: "/assets/WeatherApp.png",
+    moreInfoPhoto: "/My-portfolio/assets/WeatherApp.png",
     skills: ["javascript", "html", "css",],
   },
 ];
