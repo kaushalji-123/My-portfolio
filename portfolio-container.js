@@ -3,22 +3,13 @@
 const jsContainer = document.querySelector("#jsContainer");
 
 const data = [
-  // {
-  //   name: "LiveChat",
-  //   shortDesc: "App",
-  //   liveDemo: "http://jsmessenger.surge.sh/",
-  //   githubLink: "https://github.com/MateuszRostkowski/messenger_javascript",
-  //   moreInfo: "hereis the chat by dk",
-  //   moreInfoPhoto: "/assets/Messenger.png",
-  //   skills: ["javascript", "html", "css", "OOP"],
-  // },
   {
     name: "React-Live-Chat",
     shortDesc: "App",
     liveDemo: "https://react-chit-chat-ojvkuflge-kaushalji-123s-projects.vercel.app/?vercelToolbarCode=EMRTwtPoML2BMvV",
     githubLink: "https://github.com/kaushalji-123/React-Chit-Chat",
     moreInfo: "hereis the chat by dk",
-    moreInfoPhoto: "/My-portfolio/assets/Messenger.png",
+    moreInfoPhoto: "./assets/Messenger.png",
     skills: ["javascript", "html", "css", "OOP"],
   },
   {
@@ -28,16 +19,16 @@ const data = [
     githubLink: "https://github.com/kaushalji-123/JewelleryShop",
     moreInfo:
       "This is an Beautifull online jewelry shop designed using Figma, HTML, SCSS, and JavaScript. Created a stunning Asthetic Looking website to display different jewelry collections. Make sure the site looks great and works well on phones, tablets, and computers.",
-    moreInfoPhoto: "/My-portfolio/assets/jwellery.png",
+    moreInfoPhoto: "./assets/jwellery.png",
     skills: ["javascript", "html", "Scss" , "Figma" ],
   },
   {
-    name: "Police and Thives",
+    name: "RockPaperScissor",
     shortDesc: "Game in JS",
-    liveDemo: "https://police-and-thives.netlify.com/",
-    githubLink: "/My-portfolio/assets/PoliceAndThives",
+    liveDemo: "https://rockpaperscissors-divyanshukaushal.netlify.app/",
+    githubLink: "https://github.com/kaushalji-123/Stone_Paper_Scissor-master",
     moreInfo: "Simple Game made in vanilla javascript.",
-    moreInfoPhoto: "/My-portfolio/assets/RockPaper.png",
+    moreInfoPhoto: "./assets/RockPaperScissor.png",
     skills: ["javascript", "html", "css", "OOP ,"],
   },
   {
