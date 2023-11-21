@@ -28,7 +28,7 @@ const data = [
     liveDemo: "https://rockpaperscissors-divyanshukaushal.netlify.app/",
     githubLink: "https://github.com/kaushalji-123/Stone_Paper_Scissor-master",
     moreInfo: "Simple Game made in vanilla javascript.",
-    moreInfoPhoto: "./assets/RockPaperScissor.png",
+    moreInfoPhoto: "./assets/languages/RockPaperScissor.png",
     skills: ["javascript", "html", "css", "OOP ,"],
   },
   {
