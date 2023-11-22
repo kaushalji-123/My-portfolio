@@ -1,6 +1,5 @@
-# [LIVE DEMO](https://mateuszrostkowski.github.io)
+# [LIVE DEMO](https://kaushalji-123.github.io/My-portfolio/)
 
-## [BLOG](https://mateuszrostkowski.github.io/blog)
 
 This is repository with my portfolio site, the site is still in work.
 

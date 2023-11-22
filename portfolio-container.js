@@ -20,7 +20,7 @@ const data = [
     moreInfo:
       "This is an Beautifull online jewelry shop designed using Figma, HTML, SCSS, and JavaScript. Created a stunning Asthetic Looking website to display different jewelry collections. Make sure the site looks great and works well on phones, tablets, and computers.",
     moreInfoPhoto: "./assets/jwellery.png",
-    skills: ["javascript", "html", "Scss" , "Figma" ],
+    skills: ["javascript", "html", "scss" , "Figma" ],
   },
   {
     name: "RockPaperScissor",
@@ -28,14 +28,14 @@ const data = [
     liveDemo: "https://rockpaperscissors-divyanshukaushal.netlify.app/",
     githubLink: "https://github.com/kaushalji-123/Stone_Paper_Scissor-master",
     moreInfo: "Simple Game made in vanilla javascript.",
-    moreInfoPhoto: "./assets/languages/RockPaperScissor.png",
-    skills: ["javascript", "html", "css", "OOP ,"],
+    moreInfoPhoto: "./assets/RockPaperScissor.png",
+    skills: ["javascript", "html", "scss", "OOP ,"],
   },
   {
     name: "Concerte",
     shortDesc: "Team Project",
-    liveDemo: "http://www.frontczewscy.jfdd13.is-academy.pl/",
-    githubLink: "https://github.com/infoshareacademy/jfdd13-frontczewscy",
+    liveDemo: "",
+    githubLink: "",
     moreInfo:
       "Team Project that was made on a bootcamp. Made with HTML, CSS and Javascript.",
     moreInfoPhoto: "/My-portfolio/assets/TicTacToe.png",
@@ -44,8 +44,8 @@ const data = [
   {
     name: "Concerte App",
     shortDesc: "Team Project",
-    liveDemo: "http://app.frontczewscy.jfdd13.is-academy.pl/",
-    githubLink: "https://github.com/infoshareacademy/jfdd13-frontczewscy-app",
+    liveDemo: "",
+    githubLink: "",
     moreInfo:
       "Team Project that was made on a bootcamp. Made with ReactJS, firebase and more.",
     moreInfoPhoto: "/My-portfolio/assets/RockPaper.png",
@@ -54,8 +54,8 @@ const data = [
   {
     name: "TicTacToe",
     shortDesc: "Simple Game in React",
-    liveDemo: "https://mateuszrostkowski.github.io/TicTacToe/",
-    githubLink: "https://github.com/MateuszRostkowski/TicTacToe",
+    liveDemo: "",
+    githubLink: "",
     moreInfo: "Simple TicTacToe game made in React",
     moreInfoPhoto: "/My-portfolio/assets/TicTacToe.png",
     skills: ["react", "javascript", "react"],
@@ -63,8 +63,8 @@ const data = [
   {
     name: "JavascriptMasters",
     shortDesc: "Gatsby blog about Javascript",
-    liveDemo: "http://javascriptmasters.netlify.com/",
-    githubLink: "https://github.com/MateuszRostkowski/Gatsby_blog",
+    liveDemo: "",
+    githubLink: "",
     moreInfo: "This blog was made using Gatsby",
     moreInfoPhoto: "/My-portfolio/assets/JavascriptMaster.png",
     skills: ["gatsby", "react", "javascript", "scss", "css"],
@@ -72,12 +72,26 @@ const data = [
   {
     name: "Weather app",
     shortDesc: "simple javascript app",
-    liveDemo: "https://weather-location.netlify.com/",
+    liveDemo: "",
     githubLink: "",
     moreInfo:
       "Weather app made with vanilla javascript. You need to allow use your location to fully use this site.",
     moreInfoPhoto: "/My-portfolio/assets/WeatherApp.png",
     skills: ["javascript", "html", "css",],
+  },
+  {
+    name: "Blog",
+    shortDesc: "Event Deligation in JS",
+    liveDemo: "https://medium.com/@divyanshu838283fb/what-is-an-event-delegation-in-js-aaa808f4c51b",
+    moreInfoPhoto: "/My-portfolio/assets/blogs/event-delegation-2.png",
+    skills: ["blogs"],
+  },
+  {
+    name: "Blog",
+    shortDesc: " Let vs Const vs var ",
+    liveDemo: "https://medium.com/@divyanshu838283fb/lets-understand-the-difference-between-let-const-and-var-in-javascript-in-depth-9a31c0c8c92d",
+    moreInfoPhoto: "/My-portfolio/assets/blogs/Let-CONST-AND-VAR.png",
+    skills: ["blogs"],
   },
 ];
 

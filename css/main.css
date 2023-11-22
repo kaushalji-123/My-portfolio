@@ -34,6 +34,7 @@ a {
   margin: 40px 0;
   display: flex;
   justify-content: center;
+  align-items: center;
   width: 100%;
   color: var(--main-color);
 }
@@ -233,6 +234,7 @@ a {
   overflow: hidden;
   animation: typings 5s steps(40) forwards; /* Adjust timing as needed */
 }
+
 #jsContainer {
   position: relative;
   display: flex;
