@@ -32,26 +32,6 @@ const data = [
     skills: ["javascript", "html", "scss", "OOP ,"],
   },
   {
-    name: "Concerte",
-    shortDesc: "Team Project",
-    liveDemo: "",
-    githubLink: "",
-    moreInfo:
-      "Team Project that was made on a bootcamp. Made with HTML, CSS and Javascript.",
-    moreInfoPhoto: "/My-portfolio/assets/TicTacToe.png",
-    skills: ["javascript", "html", "css"],
-  },
-  {
-    name: "Concerte App",
-    shortDesc: "Team Project",
-    liveDemo: "",
-    githubLink: "",
-    moreInfo:
-      "Team Project that was made on a bootcamp. Made with ReactJS, firebase and more.",
-    moreInfoPhoto: "/My-portfolio/assets/RockPaper.png",
-    skills: ["react", "javascript", "css", "firebase"],
-  },
-  {
     name: "TicTacToe",
     shortDesc: "Simple Game in React",
     liveDemo: "",
@@ -61,13 +41,13 @@ const data = [
     skills: ["react", "javascript", "react"],
   },
   {
-    name: "JavascriptMasters",
-    shortDesc: "Gatsby blog about Javascript",
-    liveDemo: "",
-    githubLink: "",
+    name: "Mine Calculatorr",
+    shortDesc: " simple Javascript project",
+    liveDemo: "https://kaushalji-123.github.io/MineCalculator/",
+    githubLink: "https://github.com/kaushalji-123/MineCalculator",
     moreInfo: "This blog was made using Gatsby",
-    moreInfoPhoto: "/My-portfolio/assets/JavascriptMaster.png",
-    skills: ["gatsby", "react", "javascript", "scss", "css"],
+    moreInfoPhoto: "/My-portfolio/assets/calculator.png",
+    skills: [ "javascript", "html", "css"],
   },
   {
     name: "Weather app",
