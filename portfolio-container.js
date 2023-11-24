@@ -52,12 +52,12 @@ const data = [
   {
     name: "Weather app",
     shortDesc: "simple javascript app",
-    liveDemo: "",
-    githubLink: "",
+    liveDemo: "https://kaushalji-123.github.io/Weather-App/",
+    githubLink: "https://github.com/kaushalji-123/Weather-App",
     moreInfo:
-      "Weather app made with vanilla javascript. You need to allow use your location to fully use this site.",
-    moreInfoPhoto: "/My-portfolio/assets/WeatherApp.png",
-    skills: ["javascript", "html", "css",],
+      "Weather app made with vanilla javascript. in this project i used open weather API for showing the current weather Data in to the webPage i used here `units=metric` Parameters to make an Api call to shows accurate weather info. The app displaying current weather like temperature, humidity, and wind speed. It's a showcase of my coding skills and how I design things for users. Even though it seems simple, it's doing complex stuff behind the scenes with API calls and making the code work smoothly and making it easy for anyone to check the weather Info.",
+    moreInfoPhoto: "/My-portfolio/assets/weatherApp.png",
+    skills: ["javascript", "html", "scss"],
   },
   {
     name: "Blog",
