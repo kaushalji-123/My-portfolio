@@ -56,7 +56,7 @@ const data = [
     githubLink: "https://github.com/kaushalji-123/Weather-App",
     moreInfo:
       "Weather app made with vanilla javascript. in this project i used open weather API for showing the current weather Data in to the webPage i used here `units=metric` Parameters to make an Api call to shows accurate weather info. The app displaying current weather like temperature, humidity, and wind speed. It's a showcase of my coding skills and how I design things for users. Even though it seems simple, it's doing complex stuff behind the scenes with API calls and making the code work smoothly and making it easy for anyone to check the weather Info.",
-    moreInfoPhoto: "/My-portfolio/assets/weatherApp.png",
+    moreInfoPhoto: "/My-portfolio/assets/WeatherApp.png",
     skills: ["javascript", "html", "scss"],
   },
   {
