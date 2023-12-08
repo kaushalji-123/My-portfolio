@@ -4,12 +4,12 @@ const jsContainer = document.querySelector("#jsContainer");
 
 const data = [
   {
-    name: "React-Live-Chat",
+    name: "Online_JobPortal-React",
     shortDesc: "App",
-    liveDemo: "https://react-chit-chat-ojvkuflge-kaushalji-123s-projects.vercel.app/?vercelToolbarCode=EMRTwtPoML2BMvV",
-    githubLink: "https://github.com/kaushalji-123/React-Chit-Chat",
-    moreInfo: "hereis the chat by dk",
-    moreInfoPhoto: "./assets/Messenger.png",
+    liveDemo: "https://joboardportal.netlify.app/",
+    githubLink: "https://github.com/kaushalji-123?tab=repositories",
+    moreInfo: "Hello there! As a passionate Front-End Developer, I've created an impressive Job Portal application utilizing ReactJS, Tailwind CSS for styling, and Firebase for efficient data management and authentication. As a continuous learner, I'm exploring possibilities to further enhance this application. In the future, I plan to introduce a feature allowing job postings directly within the platform, eliminating the need for manual updates via Firebase.",
+    moreInfoPhoto: "./assets/Jobportal.png",
     skills: ["javascript", "html", "css", "OOP"],
   },
   {
@@ -32,13 +32,13 @@ const data = [
     skills: ["javascript", "html", "scss", "OOP ,"],
   },
   {
-    name: "TicTacToe",
-    shortDesc: "Simple Game in React",
-    liveDemo: "",
-    githubLink: "",
-    moreInfo: "Simple TicTacToe game made in React",
-    moreInfoPhoto: "/My-portfolio/assets/TicTacToe.png",
-    skills: ["react", "javascript", "react"],
+    name: "Quiz App",
+    shortDesc: "Quiz App with ",
+    liveDemo: "https://quizmeappdivyanshukaushal.netlify.app/",
+    githubLink: "https://github.com/kaushalji-123/QuizMe-REACT",
+    moreInfo: "Simple Quiz App Create in React",
+    moreInfoPhoto: "/My-portfolio/assets/Quizme.png",
+    skills: ["react", "javascript", "scss"],
   },
   {
     name: "Mine Calculatorr",
