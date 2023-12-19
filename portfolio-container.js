@@ -7,19 +7,19 @@ const data = [
     name: "Online_JobPortal-React",
     shortDesc: "App",
     liveDemo: "https://joboardportal.netlify.app/",
-    githubLink: "https://github.com/kaushalji-123?tab=repositories",
+    githubLink: "https://github.com/kaushalji-123/Job-Portal---React",
     moreInfo: "Hello there! As a passionate Front-End Developer, I've created an impressive Job Portal application utilizing ReactJS, Tailwind CSS for styling, and Firebase for efficient data management and authentication. As a continuous learner, I'm exploring possibilities to further enhance this application. In the future, I plan to introduce a feature allowing job postings directly within the platform, eliminating the need for manual updates via Firebase.",
     moreInfoPhoto: "./assets/Jobportal.png",
-    skills: ["javascript", "html", "css", "OOP"],
+    skills: ["react", "html", "css", "OOP"],
   },
   {
     name: "Sumry.AI  ",
     shortDesc: "OpenAI Article Summarizer",
-    liveDemo: "https://kaushalji-123.github.io/JewelleryShop/jwellery-store/index.html?email=",
+    liveDemo: "https://summarize-ai-three.vercel.app/",
     githubLink: "https://github.com/kaushalji-123/SummarizeAI",
     moreInfo:
       "SummarizeAI a React Project using Open Ai API which helps you to understand long articles and webpages without reading all the words. You just need to give it a `https://` link, and it magically creates short summaries using Open Ai API. It's like having a quick cheat sheet for any article, making it easier to get the understand & saves your time.",
-    moreInfoPhoto: "./assets/jwellery.png",
+    moreInfoPhoto: "./assets/Sumry.Ai.png",
     skills: [ "html", "tailwind css" , "redux" , 'react',"rapid Api" ],
   },
   {
