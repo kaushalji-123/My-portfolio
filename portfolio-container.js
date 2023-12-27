@@ -19,7 +19,7 @@ const data = [
     githubLink: "https://github.com/kaushalji-123/SummarizeAI",
     moreInfo:
       "SummarizeAI a React Project using Open Ai API which helps you to understand long articles and webpages without reading all the words. You just need to give it a `https://` link, and it magically creates short summaries using Open Ai API. It's like having a quick cheat sheet for any article, making it easier to get the understand & saves your time.",
-    moreInfoPhoto: "./assets/Sumry.Ai.png",
+    moreInfoPhoto: "./assets/SumryAi.png",
     skills: [ "html", "tailwind css" , "redux" , 'react',"rapid Api" ],
   },
   {
