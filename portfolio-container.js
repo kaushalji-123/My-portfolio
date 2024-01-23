@@ -23,6 +23,15 @@ const data = [
     skills: [ "html", "tailwind css" , "redux" , 'react',"rapid Api" ],
   },
   {
+    name: "ATM Bank Mangement System",
+    shortDesc: "ATM Bank Management System developed in Java Swing",
+    githubLink: "https://github.com/kaushalji-123/Bank-Management-System",
+    moreInfo:
+      "This is an Beautifull online jewelry shop designed using Figma, HTML, SCSS, and JavaScript. Created a stunning Asthetic Looking website to display different jewelry collections. Make sure the site looks great and works well on phones, tablets, and computers.",
+    moreInfoPhoto: "./assets/MainScreen.png",
+    skills: ["java", "MYSQL","oops" ],
+  },
+  {
     name: "k-jwel",
     shortDesc: "Personal JewelleryShop",
     liveDemo: "https://kaushalji-123.github.io/JewelleryShop/jwellery-store/index.html?email=",
