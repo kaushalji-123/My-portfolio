@@ -10,7 +10,7 @@ const data = [
     githubLink: "https://github.com/kaushalji-123/Job-Portal---React",
     moreInfo: "Hello there! As a passionate Front-End Developer, I've created an impressive Job Portal application utilizing ReactJS, Tailwind CSS for styling, and Firebase for efficient data management and authentication. As a continuous learner, I'm exploring possibilities to further enhance this application. In the future, I plan to introduce a feature allowing job postings directly within the platform, eliminating the need for manual updates via Firebase.",
     moreInfoPhoto: "./assets/Jobportal.png",
-    skills: ["react", "html", "css", "OOP"],
+    skills: ["react", "html", "css", "tailwind"],
   },
   {
     name: "Sumry.AI  ",
@@ -20,16 +20,16 @@ const data = [
     moreInfo:
       "SummarizeAI a React Project using Open Ai API which helps you to understand long articles and webpages without reading all the words. You just need to give it a `https://` link, and it magically creates short summaries using Open Ai API. It's like having a quick cheat sheet for any article, making it easier to get the understand & saves your time.",
     moreInfoPhoto: "./assets/SumryAi.png",
-    skills: [ "html", "tailwind css" , "redux" , 'react',"rapid Api" ],
+    skills: [ "html", "tailwind" , "redux" , 'react',"rapid Api" ],
   },
   {
     name: "ATM Bank Mangement System",
-    shortDesc: "ATM Bank Management System developed in Java Swing",
+    shortDesc: "Developed in Java Swing ",
     githubLink: "https://github.com/kaushalji-123/Bank-Management-System",
     moreInfo:
-      "This is an Beautifull online jewelry shop designed using Figma, HTML, SCSS, and JavaScript. Created a stunning Asthetic Looking website to display different jewelry collections. Make sure the site looks great and works well on phones, tablets, and computers.",
+      "This is ATM Bank Management System developed in Java OOps Concepts, Interface Designed with Java's Swing framework, Utilizes MySQL Database for ensuring reliable data retrieval and secure data storage.",
     moreInfoPhoto: "./assets/MainScreen.png",
-    skills: ["java", "MYSQL","oops" ],
+    skills: ["java", "MYSQL","OOP" ],
   },
   {
     name: "k-jwel",
@@ -48,7 +48,7 @@ const data = [
     githubLink: "https://github.com/kaushalji-123/Stone_Paper_Scissor-master",
     moreInfo: "Simple Game made in vanilla javascript.",
     moreInfoPhoto: "./assets/RockPaperScissor.png",
-    skills: ["javascript", "html", "scss", "OOP ,"],
+    skills: ["javascript", "html", "scss"],
   },
   {
     name: "Quiz App",
