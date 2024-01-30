@@ -28,7 +28,7 @@ const data = [
     githubLink: "https://github.com/kaushalji-123/Bank-Management-System",
     moreInfo:
       "This is ATM Bank Management System developed in Java OOps Concepts, Interface Designed with Java's Swing framework, Utilizes MySQL Database for ensuring reliable data retrieval and secure data storage.",
-    moreInfoPhoto: "./assets/SumryAi.png",
+    moreInfoPhoto: "./assets/mainScreen.png",
     skills: ["java", "MYSQL","OOP" ],
   },
   {
